@@ -1,2 +1,3 @@
 # Algorithm
-escape LP
+
+exit(L)
